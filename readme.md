@@ -19,6 +19,14 @@ No install. No server. ¯\\\_(ツ)\_/¯ https://pdf-editor.now.sh
 - Drag and drop to upload your PDF.
 - 支援中文（標楷體）。
 
+
+## Commands
+```
+$ npm install
+$ npm run build
+$ npm run start
+```
+
 ---
 
 LICENSE MIT © 2020 ShizukuIchi
